@@ -1,4 +1,9 @@
 - 👋 Hi, I’m @Ansh
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👀 I’m interested in explring.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on web application.
